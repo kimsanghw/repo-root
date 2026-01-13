@@ -34,7 +34,7 @@ export default function App() {
   return (
     <Container className="py-4">
       <Row className="mb-3">
-        <Col><h3>관리자 관리</h3></Col>
+        <Col><h3>사용자 관리</h3></Col>
       </Row>
 
       <Row className="g-2 align-items-end mb-4">
